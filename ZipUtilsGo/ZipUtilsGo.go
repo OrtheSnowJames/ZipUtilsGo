@@ -1,4 +1,4 @@
-package ziputilsgo
+package ZipUtilsGo
 
 import (
 	"archive/zip"
